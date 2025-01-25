@@ -20,22 +20,27 @@ including Fake Currency Detection, Logo Recognition, and Disease Prediction usin
 1. Python 
 2. Java
 3. C
+
 🔹 Web Development
-1. MERN Stack (MongoDB, Express, React, Node.js)
-2. Django & Flask (Backend Development)
-3. HTML, CSS, JavaScript
-4. jQuery, Bootstrap, Django, Flask.
-5. MongoDB,MYSQL
+
+1. Django & Flask (Backend Development)
+2. HTML, CSS, JavaScript
+3. jQuery, Bootstrap, Django, Flask.
+4. MongoDB,MYSQL
+
 🔹 Machine Learning & AI
 1. Computer Vision (OpenCV, YOLOv8, TensorFlow, PyTorch, CNNs)
 2. Deep Learning (Keras, Neural Networks, NLP, GANs)
 3. Data Science & Analytics (Pandas, NumPy, Matplotlib, Seaborn)
+
 🔹 Databases & Cloud
 1. MongoDB, MySQL
 2. Azure, AWS, Google Cloud
+
 🔹 Tools & DevOps
 1. Git, GitHub
 2. VS Code, Jupyter Notebook, Google Colab
+
 🔹 Operating Systems
 1. Windows
 2. Linux
