@@ -10,7 +10,9 @@ including Fake Currency Detection, Logo Recognition, and Disease Prediction usin
 
 🎓 Education
 🎓 Bachelor of Technology in Artificial Intelligence & Data Science (2021 - 2025)
+
 📍 Seshadri Rao Gudlavalleru Engineering College
+
 📚 Focus Areas: Machine Learning, Deep Learning, Computer Vision, and Full Stack Development
 
 
@@ -49,14 +51,17 @@ including Fake Currency Detection, Logo Recognition, and Disease Prediction usin
 🛠 Projects
 🔹 1. Logo Detection using Deep Learning
 📝 Built a CNN-based model for detecting counterfeit currency using image classification techniques.
+
 🔧 Tech Stack: TensorFlow, OpenCV, Python, Django, CNN-VGG19, Django
 
 🔹 2. Real-time Logo Detection using YOLOv8
 📸 Developed a real-time object detection system to identify company logos in images and videos.
+
 🔧 Tech Stack: YOLOv8, OpenCV, Deep Learning
 
 🔹 3.Crop Disease Detection and Precaution Management System
 ⚕️ Integrated a machine learning model with Django to predict diseases from medical symptoms and provide precautions.
+
 🔧 Tech Stack: Python, Deep Learning, Django
 
 🔹 4. Blood Donation App (MERN Stack)
@@ -65,21 +70,29 @@ including Fake Currency Detection, Logo Recognition, and Disease Prediction usin
 
 🔹 5. AI Based Content Analysis
 ❤️ Designed a user friendly website where user can upload a PDF file and ask queries which are related to the content in the PDF file. 
+
 🔧 Tech Stack: Python, NLP, Flask
 
 
 🏆 Achievements & Awards
 
-🏅 Winner of Smart India Hackathon (SIH) 2023 – Developed an AI-driven solution for real-world problem statements.
-🏅 Winner of Ideathon 2023 – Presented an innovative project using AI & ML for automation.
+🏅 Winner of Internal Smart India Hackathon (SIH) 2023 – Developed an AI-driven solution for real-world problem statements.
+
+🏅 Winner of Ideathon 2023 – Presented an innovative project using AI & ML for automation which was conducted by Vishnu Instistute of Engineering and Technology.
+
 🏅 Patent Holder – Successfully patented the Autonomous Target Striking Vehicle, an AI-powered autonomous system.
+
+🏅 Paper Publication - Successfully published our research paper titled as Logo Detection using Deep Learning under IEEE.
+
 🏅 Certified in Python, Azure, and Machine Learning – Recognized for expertise in ML & cloud computing.
 
 
 📫 Let's Connect!
 
 💼 Portfolio: mazidmohammad.pythonanywhere.com
+
 📧 Email: mazidmd750@gmail.com
+
 🔗 LinkedIn: www.linkedin.com/in/mohammadmazid
 
 
