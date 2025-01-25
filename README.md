@@ -15,6 +15,7 @@ including Fake Currency Detection, Logo Recognition, and Disease Prediction usin
 
 
 💡 Technical Skills
+
 🔹 Programming Languages
 1. Python 
 2. Java
