@@ -31,24 +31,30 @@ including Fake Currency Detection, Logo Recognition, and Disease Prediction usin
 4. MongoDB,MYSQL
 
 🔹 Machine Learning & AI
+
 1. Computer Vision (OpenCV, YOLOv8, TensorFlow, PyTorch, CNNs)
 2. Deep Learning (Keras, Neural Networks, NLP, GANs)
 3. Data Science & Analytics (Pandas, NumPy, Matplotlib, Seaborn)
 
 🔹 Databases & Cloud
-1. MongoDB, MySQL
-2. Azure, AWS, Google Cloud
+
+1. MongoDB
+2. MySQL
+
 
 🔹 Tools & DevOps
+
 1. Git, GitHub
 2. VS Code, Jupyter Notebook, Google Colab
 
 🔹 Operating Systems
+
 1. Windows
 2. Linux
 
 
 🛠 Projects
+
 🔹 1. Logo Detection using Deep Learning
 📝 Built a CNN-based model for detecting counterfeit currency using image classification techniques.
 
