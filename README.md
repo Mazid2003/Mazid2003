@@ -25,7 +25,7 @@ including Fake Currency Detection, Logo Recognition, and Disease Prediction usin
 
 1. Django & Flask (Backend Development)
 2. HTML, CSS, JavaScript
-3. jQuery, Bootstrap, Django, Flask.
+3. jQuery, Bootstrap.
 4. MongoDB,MYSQL
 
 🔹 Machine Learning & AI
@@ -68,6 +68,19 @@ including Fake Currency Detection, Logo Recognition, and Disease Prediction usin
 🔧 Tech Stack: Python, NLP, Flask
 
 
+🏆 Achievements & Awards
+
+🏅 Winner of Smart India Hackathon (SIH) 2023 – Developed an AI-driven solution for real-world problem statements.
+🏅 Winner of Ideathon 2023 – Presented an innovative project using AI & ML for automation.
+🏅 Patent Holder – Successfully patented the Autonomous Target Striking Vehicle, an AI-powered autonomous system.
+🏅 Certified in Python, Azure, and Machine Learning – Recognized for expertise in ML & cloud computing.
+
+
+📫 Let's Connect!
+
+💼 Portfolio: mazidmohammad.pythonanywhere.com
+📧 Email: mazidmd750@gmail.com
+🔗 LinkedIn: www.linkedin.com/in/mohammadmazid
 
 
 
