@@ -101,6 +101,9 @@ including Fake Currency Detection, Logo Recognition, and Disease Prediction usin
 
 🔗 LinkedIn: www.linkedin.com/in/mohammadmazid
 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/immazid_786/)
+
+
 
 
 
