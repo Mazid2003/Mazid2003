@@ -63,7 +63,7 @@ including Fake Currency Detection, Logo Recognition, and Disease Prediction usin
 🔹 2. Real-time Logo Detection using YOLOv8
 📸 Developed a real-time object detection system to identify company logos in images and videos.
 
-🔧 Tech Stack: YOLOv8, OpenCV, Deep Learning
+🔧 Tech Stack: YOLOv8, OpenCV, Deep Learning, Python
 
 🔹 3.Crop Disease Detection and Precaution Management System
 ⚕️ Integrated a machine learning model with Django to predict diseases from medical symptoms and provide precautions.
