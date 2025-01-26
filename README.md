@@ -95,7 +95,7 @@ including Fake Currency Detection, Logo Recognition, and Disease Prediction usin
 
 📫 Let's Connect!
 
-💼 Portfolio: mazidmohammad.pythonanywhere.com
+💼 Portfolio: http://mazidmohammad.pythonanywhere.com
 
 📧 Email: mazidmd750@gmail.com
 
