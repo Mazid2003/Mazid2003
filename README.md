@@ -91,6 +91,7 @@ including Fake Currency Detection, Logo Recognition, and Disease Prediction usin
 🏅 Paper Publication - Successfully published our research paper titled as Logo Detection using Deep Learning under IEEE.
 
 🏅 Certified in Python, and Machine Learning – Recognized for expertise in ML.
+
 Microsoft certified 
 1. Azure Fundamentals
 
