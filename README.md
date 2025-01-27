@@ -93,8 +93,8 @@ including Fake Currency Detection, Logo Recognition, and Disease Prediction usin
 🏅 Certified in Python, and Machine Learning – Recognized for expertise in ML.
 
 Microsoft certified 
-1. Azure Fundamentals 
-2. Azure Associate Developer 
+1. Azure Fundamentals (az-900)
+2. Azure Associate Developer (az-204)
 
 
 📫 Let's Connect!
