@@ -9,6 +9,7 @@ including Fake Currency Detection, Logo Recognition, and Disease Prediction usin
 
 
 🎓 **Education**
+
 🎓 Bachelor of Technology in Artificial Intelligence & Data Science (2021 - 2025)
 
 📍 Seshadri Rao Gudlavalleru Engineering College
