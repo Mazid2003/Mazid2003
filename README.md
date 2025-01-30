@@ -100,11 +100,13 @@ including Fake Currency Detection, Logo Recognition, and Disease Prediction usin
 
 **📫 Let's Connect!**
 
-💼 Portfolio:[Personal Portfolio] (http://mazidmohammad.pythonanywhere.com)
+## 💼 Portfolio, Contact & Socials  
 
-📧 Email: mazidmd750@gmail.com
+[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-blue)](http://mazidmohammad.pythonanywhere.com)  
 
-🔗 LinkedIn: www.linkedin.com/in/mohammadmazid
+[![Email](https://img.shields.io/badge/📧-Email-red)](mailto:mazidmd750@gmail.com)  
+
+[![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohammadmazid)  
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/immazid_786/)
 
