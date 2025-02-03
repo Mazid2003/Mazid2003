@@ -5,7 +5,7 @@
 
 Welcome to my GitHub profile! I am a passionate Full Stack Developer with a strong foundation in Artificial Intelligence, Machine Learning, and Deep Learning. 
 I specialize in developing scalable web applications, intelligent ML models, and real-time object detection systems. I have also worked on various innovative projects, 
-including Fake Currency Detection, Logo Recognition, and Disease Prediction using ML.
+including Logo Recognition, Real time object Detection and Counting the Objects, Crop Disease Detection and Precaution Management using ML,AI based Content Analysis using NLP, Blood Donation App using MERN Stack and Some Hardware Projects and Some games like Tic Tac Toe, Stopwatch.
 
 
 🎓 **Education**
