@@ -28,7 +28,7 @@ including Fake Currency Detection, Logo Recognition, and Disease Prediction usin
 **🔹 Web Development**
 
 1. Django & Flask (Backend Development)
-2. HTML, CSS, JavaScript
+2. HTML, CSS, JavaScript, React.js
 3. jQuery, Bootstrap.
 4. MongoDB,MYSQL
 
