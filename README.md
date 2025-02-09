@@ -29,8 +29,8 @@ including Logo Recognition, Real time object Detection and Counting the Objects,
 
 1. Django & Flask (Backend Development)
 2. HTML, CSS, JavaScript, React.js
-3. jQuery, Bootstrap.
-4. MongoDB,MYSQL
+3. jQuery, Bootstrap
+4. MongoDB, MYSQL
 
 **🔹 Machine Learning & AI**
 
@@ -47,7 +47,7 @@ including Logo Recognition, Real time object Detection and Counting the Objects,
 **🔹 Tools & DevOps**
 
 1. Git, GitHub
-2. VS Code, Jupyter Notebook, Google Colab
+2. VS Code, Jupyter Notebook, Google Colab, Pythonanywhere.com
 
 **🔹 Operating Systems**
 
