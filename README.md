@@ -1,18 +1,19 @@
 ## Hi there 👋
 
 👋 **Hi, I'm Mohammad Mazid!**
-🚀 Full Stack Developer | AI & ML Enthusiast | Open Source Contributor
 
-Welcome to my GitHub profile! I am a passionate Full Stack Developer with a strong foundation in Artificial Intelligence, Machine Learning, and Deep Learning. 
+**🚀 Full Stack Developer | AI & ML Enthusiast | Open Source Contributor
+**
+Welcome to my GitHub profile! I am a passionate **Full Stack Developer with a strong foundation in Artificial Intelligence, Machine Learning, and Deep Learning.** 
 I specialize in developing scalable web applications, intelligent ML models, and real-time object detection systems. I have also worked on various innovative projects, 
 including Logo Recognition, Real time object Detection and Counting the Objects, Crop Disease Detection and Precaution Management using ML, AI based Content Analysis using NLP, Blood Donation App using MERN Stack and Some Hardware Projects and Some games like Tic Tac Toe, Stopwatch.
 
 
 🎓 **Education**
 
-🎓 Bachelor of Technology in Artificial Intelligence & Data Science (2021 - 2025)
+**🎓 Bachelor of Technology in Artificial Intelligence & Data Science (2021 - 2025)**
 
-📍 Seshadri Rao Gudlavalleru Engineering College
+**📍 Seshadri Rao Gudlavalleru Engineering College**
 
 📚 **Focus Areas:** Machine Learning, Deep Learning, Computer Vision, and Full Stack Development
 
