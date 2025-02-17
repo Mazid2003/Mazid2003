@@ -2,7 +2,7 @@
 
 👋 **Hi, I'm Mohammad Mazid!**
 
-**🚀 Full Stack Developer | AI & ML Enthusiast | Open Source Contributor**
+**🚀Python Full Stack Developer | AI & ML Enthusiast | Open Source Contributor**
 
 Welcome to my GitHub profile! I am a passionate **Full Stack Developer with a strong foundation in Artificial Intelligence, Machine Learning, and Deep Learning.** 
 I specialize in developing scalable web applications, intelligent ML models, and real-time object detection systems. I have also worked on various innovative projects, 
