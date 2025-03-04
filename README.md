@@ -59,25 +59,31 @@ including Logo Recognition, Real time object Detection and Counting the Objects,
 **🛠 Projects**
 
 **🔹 1. Logo Detection using Deep Learning**
+
 📝 Built a CNN-based model for detecting counterfeit currency using image classification techniques.
 
 **🔧 Tech Stack:** TensorFlow, OpenCV, Python, Django, CNN-VGG19, Django
 
 **🔹 2. Real-time Logo Detection using YOLOv8**
+
 📸 Developed a real-time object detection system to identify company logos in images and videos.
 
 **🔧 Tech Stack:** YOLOv8, OpenCV, Deep Learning, Python
 
 **🔹 3.Crop Disease Detection and Precaution Management System**
+
 ⚕️ Integrated a machine learning model with Django to predict diseases from medical symptoms and provide precautions.
 
 **🔧 Tech Stack:** Python, Deep Learning, Django
 
 **🔹 4. Blood Donation App (MERN Stack)**
+
 ❤️ A web platform for blood donors and recipients, featuring OTP-based authentication and donor search filters.
+
 **🔧 Tech Stack:** MongoDB, Express.js, React.js, Node.js
 
 **🔹 5. AI Based Content Analysis**
+
 ❤️ Designed a user friendly website where user can upload a PDF file and ask queries which are related to the content in the PDF file. 
 
 **🔧 Tech Stack:** Python, NLP, Flask
