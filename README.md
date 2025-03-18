@@ -97,7 +97,8 @@ including Logo Recognition, Real time object Detection and Counting the Objects,
 
 🏅 Patent Holder – **Successfully patented** the Autonomous Target Striking Vehicle, an AI-powered autonomous system.
 
-🏅 Paper Publication - **Successfully published our research paper** titled as Logo Detection using Deep Learning under IEEE.
+🏅 Paper Publication - **Successfully published our research paper** titled as Logo Detection using Deep Learning under IEEE.<br>
+🏅   DOI: 10.1109/ICSCNA63714.2024.10864020.
 
 🏅 Certified in Python, and Machine Learning – Recognized for expertise in ML.
 
