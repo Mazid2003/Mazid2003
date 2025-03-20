@@ -38,11 +38,10 @@ including Logo Recognition, Real time object Detection and Counting the Objects,
 2. Deep Learning (Keras, Neural Networks, NLP, GANs)
 3. Data Science & Analytics (Pandas, NumPy, Matplotlib, Seaborn)
 
-**🔹 Databases & Cloud**
+**🔹 Databases**
 
 1. MongoDB
 2. MySQL
-
 
 **🔹 Tools & DevOps**
 
