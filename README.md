@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![mazid](https://github.com/user-attachments/assets/f5607fd5-487c-4912-b0ff-0ec59135949f)
+
+
 👋 **Hi, I'm Mohammad Mazid!**
 
 **🚀Python Full Stack Developer | AI & ML Enthusiast | Open Source Contributor**
