@@ -109,8 +109,6 @@ including Logo Recognition, Real time object Detection and Counting the Objects,
 
 ## 💼 Portfolio, Contact & Socials  
 
-[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-blue)](http://mazidmohammad.pythonanywhere.com)  
-
 [![Email](https://img.shields.io/badge/📧-Email-red)](mailto:mazidmd750@gmail.com)  
 
 [![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohammadmazid)  
