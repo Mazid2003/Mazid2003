@@ -1,92 +1,106 @@
 ## Hi there 👋
 
-👋 **Hi, I'm Mohammad Mazid!**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+Mohammad+Mazid!;Python+Full+Stack+Developer;ML+%7C+AI+%7C+DL+Enthusiast;Open+Source+Contributor+%F0%9F%94%A5" alt="Typing SVG" />
+</p>
 
-🚀 **Python Full Stack Developer | AI & ML Enthusiast | Open Source Contributor**
+---
 
-Welcome to my GitHub profile! I’m a passionate **Python Full Stack Developer** with a strong foundation in **Artificial Intelligence, Machine Learning, and Deep Learning**. I love turning ideas into scalable web platforms and intelligent systems. My work spans across web development, real-time object detection, NLP, and games, along with hardware-integrated AI applications.
+### 👨‍💻 About Me
+
+🚀 **Python Full Stack Developer | AI & ML Enthusiast | Open Source Contributor**  
+Welcome to my GitHub profile! I specialize in developing scalable web apps, intelligent ML models, and real-time detection systems.  
+Passionate about innovation, I’ve built solutions in areas like:
+
+- 🔍 **Logo Recognition & Object Detection**
+- 🌾 **Crop Disease Detection**
+- 📄 **AI-based PDF Content Analysis**
+- 💉 **Blood Donation Platform (MERN Stack)**
+- 🎮 **Mini Games & Arduino Hardware Projects**
 
 ---
 
 ### 🎓 Education
 
-**🎓 B.Tech in Artificial Intelligence & Data Science (2021 - 2025)**  
-📍 *Seshadri Rao Gudlavalleru Engineering College*  
-📚 *Focus Areas:* Machine Learning, Deep Learning, Computer Vision, and Full Stack Development
+📚 **B.Tech in Artificial Intelligence & Data Science (2021 - 2025)**  
+📍 **Seshadri Rao Gudlavalleru Engineering College**
 
 ---
 
-### 💡 Technical Skills
+### 💻 Technical Skills
 
-**🔹 Programming Languages:**  
-Python, Java, C
-
-**🔹 Web Development:**  
-Django, Flask, HTML, CSS, JavaScript, React.js, jQuery, Bootstrap
-
-**🔹 Machine Learning & AI:**  
-OpenCV, YOLOv8, TensorFlow, PyTorch, CNNs, NLP, GANs, Keras
-
-**🔹 Data Science & Analytics:**  
-Pandas, NumPy, Matplotlib, Seaborn, Power BI
-
-**🔹 Databases:**  
-MongoDB, MySQL
-
-**🔹 Tools & Platforms:**  
-Git, GitHub, VS Code, Jupyter Notebook, Google Colab, PythonAnywhere
-
-**🔹 Operating Systems:**  
-Windows, Linux
+- **Languages:** Python, Java, C  
+- **Web:** Django, Flask, HTML, CSS, JavaScript, React.js, Bootstrap  
+- **AI/ML:** OpenCV, YOLOv8, TensorFlow, Keras, PyTorch, NLP  
+- **Databases:** MongoDB, MySQL  
+- **Tools:** Git, GitHub, VS Code, Jupyter, PythonAnywhere  
+- **OS:** Windows, Linux
 
 ---
 
-### 🛠 Highlight Projects
+### 🛠 Projects
 
-**🔹 1. Logo Detection using Deep Learning**  
-🧠 Detected fake logos using VGG19 CNN architecture integrated with Django.  
-**Tech:** Python, TensorFlow, OpenCV, CNN, Django
+#### 🔹 Logo Detection using Deep Learning  
+> CNN-based model for counterfeit currency and logo recognition  
+Tech: TensorFlow, OpenCV, Python, Django  
 
-**🔹 2. Real-time Logo Detection using YOLOv8**  
-🔍 Detected logos in real-time using object detection.  
-**Tech:** YOLOv8, Python, OpenCV
+#### 🔹 Real-time Object Detection (YOLOv8)  
+> Detect logos in images/videos live  
+Tech: Python, YOLOv8, OpenCV  
 
-**🔹 3. Crop Disease Detection and Precaution Management**  
-🌾 Predicted crop diseases and provided actionable suggestions using ML.  
-**Tech:** Python, Deep Learning, Django
+#### 🔹 Crop Disease Detection & Precaution System  
+> Predicts diseases and recommends precautions  
+Tech: Django, Deep Learning  
 
-**🔹 4. Blood Donation App (MERN Stack)**  
-🩸 Enabled blood donors and recipients to connect with OTP-based login.  
-**Tech:** MongoDB, Express.js, React.js, Node.js
+#### 🔹 Blood Donation App  
+> MERN-based platform for donors/recipients  
+Tech: MongoDB, Express, React, Node  
 
-**🔹 5. AI-Based Content Analysis**  
-📄 Built a system to answer queries from uploaded PDF files using NLP.  
-**Tech:** Python, Flask, NLP, PDF Parser
-
-**🔹 6. Power BI Dashboard Projects**  
-📊 Created analytics dashboards from ad & farming datasets with custom visuals.  
-**Tech:** Power BI, DAX, Data Modelling
-
-**🔹 7. Sleep Detection System**  
-🚘 Detected drowsiness using webcam and triggered alerts to avoid accidents.  
-**Tech:** Arduino, OpenCV, Python
-
-**🔹 8. Games & Tools**  
-🎮 Built Tic Tac Toe, Stopwatch, Flappy Bird, Snake Game, and a GUI-based Screen Recorder.
+#### 🔹 AI Content Analysis (NLP)  
+> Upload PDFs, ask questions, get answers  
+Tech: Flask, Python, NLP  
 
 ---
 
 ### 🏆 Achievements
 
-🏅 **2nd Place – SIH Internal Hackathon 2023 (SRGEC)**  
-🏅 **Winner – Ideathon 2023 (VIET)**  
+🏅 **2nd Place – SIH 2023 (Internal)**  
+🏅 **Winner – Ideathon 2023**  
 🏅 **Patent Holder – Autonomous Target Striking Vehicle**  
-🏅 **Research Paper Published – IEEE (DOI: [10.1109/ICSCNA63714.2024.10864020](https://doi.org/10.1109/ICSCNA63714.2024.10864020))**  
-🏅 **Certified – Python, Machine Learning, Azure Fundamentals (AZ-900), Azure Developer Associate (AZ-204)**
+🏅 **IEEE Paper Published – Logo Detection using Deep Learning**  
+📄 DOI: [10.1109/ICSCNA63714.2024.10864020](https://doi.org/10.1109/ICSCNA63714.2024.10864020)  
+📜 **Certifications:** Python, Machine Learning, Azure (AZ-900, AZ-204)
 
 ---
 
-### 📫 Let's Connect
+### 📊 GitHub Stats & Trophies
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mazid786&show_icons=true&theme=radical" alt="Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mazid786&theme=radical" alt="Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazid786&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mazid786&theme=radical&row=2&column=3" />
+</p>
+
+---
+
+### 👀 Visitor Count
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mazid786&style=flat-square&color=blue" alt="Profile Views" />
+</p>
+
+---
+
+### 📫 Let's Connect!
 
 [![Email](https://img.shields.io/badge/📧-Email-red)](mailto:mazidmd750@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohammadmazid)  
@@ -94,4 +108,6 @@ Windows, Linux
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to check out my repositories and connect with me for collaborations and opportunities!*
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
+</p>
