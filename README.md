@@ -32,7 +32,7 @@ Passionate about innovation, I’ve built solutions in areas like:
 - **Languages:** Python, Java, C  
 - **Web:** Django, Flask, HTML, CSS, JavaScript, React.js, Bootstrap  
 - **AI/ML:** OpenCV, YOLOv8, TensorFlow, Keras, PyTorch, NLP  
-- **Databases:** MongoDB, MySQL  
+- **Databases:** MongoDB, MySQL, SQLite  
 - **Tools:** Git, GitHub, VS Code, Jupyter, PythonAnywhere  
 - **OS:** Windows, Linux
 
@@ -42,7 +42,7 @@ Passionate about innovation, I’ve built solutions in areas like:
 
 #### 🔹 Logo Detection using Deep Learning  
 > CNN-based model for counterfeit currency and logo recognition  
-Tech: TensorFlow, OpenCV, Python, Django  
+Tech: TensorFlow, CNN, Python, Django  
 
 #### 🔹 Real-time Object Detection (YOLOv8)  
 > Detect logos in images/videos live  
@@ -59,6 +59,40 @@ Tech: MongoDB, Express, React, Node
 #### 🔹 AI Content Analysis (NLP)  
 > Upload PDFs, ask questions, get answers  
 Tech: Flask, Python, NLP  
+
+#### 🔹 Screenshot Capture App  
+> Lightweight desktop tool to capture screenshots  
+Tech: Python, Tkinter  
+
+#### 🔹 GUI Screen Recorder  
+> Easy-to-use GUI to record screen activity  
+Tech: Python, Tkinter, OpenCV  
+
+#### 🔹 Sleep Detector (Driver Drowsiness)  
+> Arduino + OpenCV-based system to detect drowsiness and prevent accidents  
+Tech: Arduino, OpenCV  
+
+#### 🔹 Interactive To-Do Web App  
+> Spring Boot backend with a clean web frontend for task management  
+Tech: Java, Spring Boot, HTML, CSS, JS  
+
+#### 🔹 Career Advisor AI Platform  
+> Resume parser, job role prediction, career planning & suggestions  
+Tech: Python, Flask, React.js, spaCy, OpenAI  
+
+#### 🔹 AI Grammar Checker & Speech-to-Text Analyzer  
+> Upload/record audio, get transcriptions & grammar scores using ML  
+Tech: Flask, Python, ML  
+
+#### 🔹 Sustainable Farming AI (Multi-Agent System)  
+> AI agents for crop recommendation, market prediction, and sustainable farming insights  
+Tech: Python, ML, SQLite  
+
+#### 🔹 Power BI Dashboards  
+> ✅ Inflation Trends Analyzer  
+> ✅ Health Analysis Dashboard  
+> ✅ Plant Growth Prediction Dashboard  
+Tech: Power BI, Excel, DAX, Power Query  
 
 ---
 
@@ -94,8 +128,9 @@ Tech: Flask, Python, NLP
 ---
 
 ### 👀 Visitor Count
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mazid786&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Mazid2003&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
 ---
