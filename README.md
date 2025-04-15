@@ -14,7 +14,7 @@ Passionate about innovation, I’ve built solutions in areas like:
 
 - 🔍 **Logo Recognition & Object Detection**
 - 🌾 **Crop Disease Detection**
-- 📄 **AI-based PDF Content Analysis**
+- 📄 **AI-based Content Analysis**
 - 💉 **Blood Donation Platform (MERN Stack)**
 - 🎮 **Mini Games & Arduino Hardware Projects**
 
@@ -22,7 +22,7 @@ Passionate about innovation, I’ve built solutions in areas like:
 
 ### 🎓 Education
 
-📚 **B.Tech in Artificial Intelligence & Data Science (2021 - 2025)**  
+📚 **Bachelor of Technology in Artificial Intelligence & Data Science (2021 - 2025)**  
 📍 **Seshadri Rao Gudlavalleru Engineering College**
 
 ---
