@@ -68,15 +68,15 @@ Tech: Python, Tkinter
 > Easy-to-use GUI to record screen activity  
 Tech: Python, Tkinter, OpenCV  
 
-#### 🔹 Sleep Detector (Driver Drowsiness)  
+#### 🔹 Sleep Detector (Driver Drowsiness Detector)  
 > Arduino + OpenCV-based system to detect drowsiness and prevent accidents  
 Tech: Arduino, OpenCV  
 
-#### 🔹 Interactive To-Do Web App  
+#### 🔹 Interactive To-Do Web App  (on going)
 > Spring Boot backend with a clean web frontend for task management  
 Tech: Java, Spring Boot, HTML, CSS, JS  
 
-#### 🔹 Career Advisor AI Platform  
+#### 🔹 Career Advisor AI Platform (on going)
 > Resume parser, job role prediction, career planning & suggestions  
 Tech: Python, Flask, React.js, spaCy, OpenAI  
 
