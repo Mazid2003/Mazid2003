@@ -109,21 +109,26 @@ Tech: Power BI, Excel, DAX, Power Query
 
 ### 📊 GitHub Stats & Trophies
 
+<h2 align="center">🔥 My GitHub Stats 🔥</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mazid2003&show_icons=true&theme=radical" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mazid2003&show_icons=true&theme=radical&border_radius=15&hide_border=true" alt="Mazid's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mazid2003&theme=radical" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mazid2003&theme=radical&hide_border=true&border_radius=15" alt="Mazid's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazid2003&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazid2003&layout=compact&theme=radical&border_radius=15&hide_border=true" alt="Mazid's Top Languages" />
 </p>
 
+<h2 align="center">🏆 GitHub Trophies 🏆</h2>
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mazid2003&theme=radical&row=2&column=3" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mazid2003&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
 </p>
+
 
 ---
 
