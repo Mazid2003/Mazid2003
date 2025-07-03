@@ -72,14 +72,6 @@ Tech: Python, Tkinter, OpenCV
 > Arduino + OpenCV-based system to detect drowsiness and prevent accidents  
 Tech: Arduino, OpenCV  
 
-#### 🔹 Interactive To-Do Web App  (on going)
-> Spring Boot backend with a clean web frontend for task management  
-Tech: Java, Spring Boot, HTML, CSS, JS  
-
-#### 🔹 Career Advisor AI Platform (on going)
-> Resume parser, job role prediction, career planning & suggestions  
-Tech: Python, Flask, React.js, spaCy, OpenAI  
-
 #### 🔹 AI Grammar Checker & Speech-to-Text Analyzer  
 > Upload/record audio, get transcriptions & grammar scores using ML  
 Tech: Flask, Python, ML  
