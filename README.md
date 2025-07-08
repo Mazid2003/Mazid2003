@@ -1,130 +1,99 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Mohammad Mazid!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+Mohammad+Mazid!;Python+Full+Stack+Developer;ML+%7C+AI+%7C+DL+Enthusiast;Open+Source+Contributor+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Python+Full+Stack+Developer;AI+%7C+ML+%7C+DL+Enthusiast;Open+Source+Contributor+%F0%9F%94%A5;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-🚀 **Python Full Stack Developer | AI & ML Enthusiast | Open Source Contributor**  
-Welcome to my GitHub profile! I specialize in developing scalable web apps, intelligent ML models, and real-time detection systems.  
-Passionate about innovation, I’ve built solutions in areas like:
+🚀 **Python Full Stack Developer | AI & ML Enthusiast | Open Source Contributor**
 
-- 🔍 **Logo Recognition & Object Detection**
-- 🌾 **Crop Disease Detection**
-- 📄 **AI-based Content Analysis**
-- 💉 **Blood Donation Platform (MERN Stack)**
-- 🎮 **Mini Games & Arduino Hardware Projects**
+I specialize in building scalable web apps, intelligent ML models, and real-time systems.  
+Passionate about problem-solving and innovation, I’ve delivered projects in:
+
+- 🔍 Logo & Object Detection
+- 🌾 Crop Disease Diagnosis
+- 📄 PDF-Based AI Content Analysis
+- 💉 Blood Donation System (MERN)
+- 🎮 Game Dev & Arduino Automation
 
 ---
 
 ### 🎓 Education
 
-📚 **Bachelor of Technology in Artificial Intelligence & Data Science (2021 - 2025)**  
-📍 **Seshadri Rao Gudlavalleru Engineering College**
+📚 **B.Tech – Artificial Intelligence & Data Science (2021–2025)**  
+📍 *Seshadri Rao Gudlavalleru Engineering College*
 
 ---
 
-### 💻 Technical Skills
+### 💻 Tech Stack
 
 - **Languages:** Python, Java, C  
-- **Web:** Django, Flask, HTML, CSS, JavaScript, React.js, Bootstrap  
-- **AI/ML:** OpenCV, YOLOv8, TensorFlow, Keras, PyTorch, NLP  
-- **Databases:** MongoDB, MySQL, SQLite  
-- **Tools:** Git, GitHub, VS Code, Jupyter, PythonAnywhere  
-- **OS:** Windows, Linux
+- **Frontend:** HTML, CSS, JavaScript, React.js, Bootstrap  
+- **Backend:** Django, Flask, Node.js  
+- **ML & DL:** TensorFlow, Keras, PyTorch, OpenCV, YOLOv8  
+- **Database:** MongoDB, MySQL, SQLite  
+- **Tools:** Git, VS Code, PythonAnywhere, Jupyter  
+- **Cloud & OS:** Azure (AZ-900, AZ-204), Linux, Windows
 
 ---
 
-### 🛠 Projects
+### 🛠️ Highlighted Projects
 
-#### 🔹 Logo Detection using Deep Learning  
-> CNN-based model for counterfeit currency and logo recognition  
-Tech: TensorFlow, CNN, Python, Django  
-
-#### 🔹 Real-time Object Detection (YOLOv8)  
-> Detect logos in images/videos live  
-Tech: Python, YOLOv8, OpenCV  
-
-#### 🔹 Crop Disease Detection & Precaution System  
-> Predicts diseases and recommends precautions  
-Tech: Django, Deep Learning  
-
-#### 🔹 Blood Donation App  
-> MERN-based platform for donors/recipients  
-Tech: MongoDB, Express, React, Node  
-
-#### 🔹 AI Content Analysis (NLP)  
-> Upload PDFs, ask questions, get answers  
-Tech: Flask, Python, NLP  
-
-#### 🔹 Screenshot Capture App  
-> Lightweight desktop tool to capture screenshots  
-Tech: Python, Tkinter  
-
-#### 🔹 GUI Screen Recorder  
-> Easy-to-use GUI to record screen activity  
-Tech: Python, Tkinter, OpenCV  
-
-#### 🔹 Sleep Detector (Driver Drowsiness Detector)  
-> Arduino + OpenCV-based system to detect drowsiness and prevent accidents  
-Tech: Arduino, OpenCV  
-
-#### 🔹 AI Grammar Checker & Speech-to-Text Analyzer  
-> Upload/record audio, get transcriptions & grammar scores using ML  
-Tech: Flask, Python, ML  
-
-#### 🔹 Sustainable Farming AI (Multi-Agent System)  
-> AI agents for crop recommendation, market prediction, and sustainable farming insights  
-Tech: Python, ML, SQLite  
-
-#### 🔹 Power BI Dashboards  
-> ✅ Inflation Trends Analyzer  
-> ✅ Health Analysis Dashboard  
-> ✅ Plant Growth Prediction Dashboard  
-Tech: Power BI, Excel, DAX, Power Query  
+| Project | Description | Tech |
+|--------|-------------|------|
+| **Logo Detection (DL)** | Counterfeit logo detection via CNN | TensorFlow, Python |
+| **YOLOv8 Object Detection** | Real-time object detection in video | YOLOv8, OpenCV |
+| **Crop Disease Detection** | Identifies crop diseases + remedies | Django, DL |
+| **Blood Donation App** | MERN stack donor-recipient platform | MongoDB, React |
+| **AI Content QnA** | Ask questions from PDF uploads | Flask, NLP |
+| **Speech-to-Text + Grammar Check** | Upload/record audio → text & grammar score | Flask, ML |
+| **GUI Apps** | Screenshot tool, screen recorder, digital clock | Tkinter, OpenCV |
+| **Sleep Detector** | Drowsiness alert system (Arduino + Cam) | Arduino, Python |
+| **Sustainable Farming AI** | Multi-agent model for crop + market insights | ML, SQLite |
+| **Power BI Dashboards** | Inflation, Health, Growth Prediction | Power BI, DAX |
 
 ---
 
 ### 🏆 Achievements
 
-🏅 **2nd Place – SIH 2023 (Internal)**  
-🏅 **Winner – Ideathon 2023**  
-🏅 **Patent Holder – Autonomous Target Striking Vehicle**  
-🏅 **IEEE Paper Published – Logo Detection using Deep Learning**  
-📄 DOI: [10.1109/ICSCNA63714.2024.10864020](https://doi.org/10.1109/ICSCNA63714.2024.10864020)  
-📜 **Certifications:** Python, Machine Learning, Azure (AZ-900, AZ-204)
+- 🥈 **2nd Place – SIH 2023 (Internal Round)**
+- 🏅 **Winner – Ideathon 2023**
+- 🧠 **Patent Holder – Autonomous Target Striking Vehicle**
+- 📘 **IEEE Paper Published – Logo Detection via Deep Learning**  
+  📄 [DOI: 10.1109/ICSCNA63714.2024.10864020](https://doi.org/10.1109/ICSCNA63714.2024.10864020)
+- 🏅 **Certifications:** Python, Azure (AZ-900 & AZ-204), ML
 
 ---
 
-### 📊 GitHub Stats & Trophies
-
-<h2 align="center">🔥 My GitHub Stats 🔥</h2>
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mazid2003&show_icons=true&theme=radical&border_radius=15&hide_border=true" alt="Mazid's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mazid2003&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mazid2003&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mazid2003&theme=radical&hide_border=true&border_radius=15" alt="Mazid's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazid2003&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" width="48%" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazid2003&layout=compact&theme=radical&border_radius=15&hide_border=true" alt="Mazid's Top Languages" />
-</p>
-
-<h2 align="center">🏆 GitHub Trophies 🏆</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mazid2003&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
-</p>
-
 
 ---
 
-### 👀 Visitor Count
+### 🏅 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mazid2003&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+### 🌍 Visitor Count
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mazid2003&style=flat-square&color=blue" alt="Profile Views" />
@@ -134,9 +103,11 @@ Tech: Power BI, Excel, DAX, Power Query
 
 ### 📫 Let's Connect!
 
-[![Email](https://img.shields.io/badge/📧-Email-red)](mailto:mazidmd750@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohammadmazid)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/immazid_786/)
+<p align="center">
+  <a href="mailto:mazidmd750@gmail.com"><img src="https://img.shields.io/badge/📧 Email-red?style=flat" /></a>  
+  <a href="https://www.linkedin.com/in/mohammadmazid"><img src="https://img.shields.io/badge/🔗 LinkedIn-blue?style=flat&logo=linkedin" /></a>  
+  <a href="https://www.instagram.com/immazid_786/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white" /></a>
+</p>
 
 ---
 
