@@ -88,7 +88,7 @@ Tech: Power BI, Excel, DAX, Power Query
 
 ---
 
-### 🏆 Achievements
+## 🏆 Achievements
 
 🏅 **2nd Place – SIH 2023 (Internal)**  
 🏅 **Winner – Ideathon 2023**  
