@@ -6,7 +6,7 @@
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
 🚀 **Python Full Stack Developer | AI & ML Enthusiast | Open Source Contributor**  
 Welcome to my GitHub profile! I specialize in developing scalable web apps, intelligent ML models, and real-time detection systems.  
@@ -20,14 +20,14 @@ Passionate about innovation, I’ve built solutions in areas like:
 
 ---
 
-### 🎓 Education
+## 🎓 Education
 
 📚 **Bachelor of Technology in Artificial Intelligence & Data Science (2021 - 2025)**  
 📍 **Seshadri Rao Gudlavalleru Engineering College**
 
 ---
 
-### 💻 Technical Skills
+## 💻 Technical Skills
 
 - **Languages:** Python, Java, C  
 - **Web:** Django, Flask, HTML, CSS, JavaScript, Bootstrap  
@@ -38,49 +38,49 @@ Passionate about innovation, I’ve built solutions in areas like:
 
 ---
 
-### 🛠 Projects
+## 🛠 Projects
 
-#### 🔹 Logo Detection using Deep Learning  
-> CNN-based model for counterfeit currency and logo recognition  
+### 🔹 Logo Detection using Deep Learning  
+> CNN-based model for counterfeit logo recognition  
 Tech: TensorFlow, CNN, Python, Django  
 
-#### 🔹 Real-time Object Detection (YOLOv8)  
+### 🔹 Real-time Object Detection (YOLOv8)  
 > Detect logos in images/videos live  
 Tech: Python, YOLOv8, OpenCV  
 
-#### 🔹 Crop Disease Detection & Precaution System  
+### 🔹 Crop Disease Detection & Precaution System  
 > Predicts diseases and recommends precautions  
 Tech: Django, Deep Learning  
 
-#### 🔹 Blood Donation App  
+### 🔹 Blood Donation App  
 > MERN-based platform for donors/recipients  
 Tech: MongoDB, Express, React, Node  
 
-#### 🔹 AI Content Analysis (NLP)  
+### 🔹 AI Content Analysis (NLP)  
 > Upload PDFs, ask questions, get answers  
 Tech: Flask, Python, NLP  
 
-#### 🔹 Screenshot Capture App  
+### 🔹 Screenshot Capture App  
 > Lightweight desktop tool to capture screenshots  
 Tech: Python, Tkinter  
 
-#### 🔹 GUI Screen Recorder  
+### 🔹 GUI Screen Recorder  
 > Easy-to-use GUI to record screen activity  
 Tech: Python, Tkinter, OpenCV  
 
-#### 🔹 Sleep Detector (Driver Drowsiness Detector)  
+### 🔹 Sleep Detector (Driver Drowsiness Detector)  
 > Arduino + OpenCV-based system to detect drowsiness and prevent accidents  
 Tech: Arduino, OpenCV  
 
-#### 🔹 AI Grammar Checker & Speech-to-Text Analyzer  
+### 🔹 AI Grammar Checker & Speech-to-Text Analyzer  
 > Upload/record audio, get transcriptions & grammar scores using ML  
 Tech: Flask, Python, ML  
 
-#### 🔹 Sustainable Farming AI (Multi-Agent System)  
+### 🔹 Sustainable Farming AI (Multi-Agent System)  
 > AI agents for crop recommendation, market prediction, and sustainable farming insights  
 Tech: Python, ML, SQLite  
 
-#### 🔹 Power BI Dashboards  
+### 🔹 Power BI Dashboards  
 > ✅ Inflation Trends Analyzer  
 > ✅ Health Analysis Dashboard  
 > ✅ Plant Growth Prediction Dashboard  
