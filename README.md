@@ -132,7 +132,7 @@ Tech: Power BI, Excel, DAX, Power Query
 
 ---
 
-### 📫 Let's Connect!
+## 📫 Let's Connect!
 
 [![Email](https://img.shields.io/badge/📧-Email-red)](mailto:mazidmd750@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohammadmazid)  
