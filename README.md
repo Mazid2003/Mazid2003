@@ -30,7 +30,7 @@ Passionate about innovation, I’ve built solutions in areas like:
 ### 💻 Technical Skills
 
 - **Languages:** Python, Java, C  
-- **Web:** Django, Flask, HTML, CSS, JavaScript, React.js, Bootstrap  
+- **Web:** Django, Flask, HTML, CSS, JavaScript, Bootstrap  
 - **AI/ML:** OpenCV, YOLOv8, TensorFlow, Keras, PyTorch, NLP  
 - **Databases:** MongoDB, MySQL, SQLite  
 - **Tools:** Git, GitHub, VS Code, Jupyter, PythonAnywhere  
