@@ -99,7 +99,7 @@ Tech: Power BI, Excel, DAX, Power Query
 
 ---
 
-### 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats & Trophies
 
 <h2 align="center">🔥 My GitHub Stats 🔥</h2>
 
