@@ -89,7 +89,7 @@ Tech: Power BI, Excel, DAX, Power Query
 ---
 
 ### Want to play games developed by me
->
+>[Snake Game](https://snake-game-eight-steel.vercel.app/)
 >
 
 ## 🏆 Achievements
