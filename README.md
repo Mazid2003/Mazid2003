@@ -116,7 +116,8 @@ Tech: Power BI, Excel, DAX, Power Query
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazid2003&layout=compact&theme=radical&border_radius=15&hide_border=true" alt="Mazid's Top Languages" />
+  <img src="![Mazid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mazid2003&show_icons=true&count_private=true&theme=radical&hide_border=true&cache_seconds=1800)
+" />
 </p>
 
 <h2 align="center">🏆 GitHub Trophies 🏆</h2>
